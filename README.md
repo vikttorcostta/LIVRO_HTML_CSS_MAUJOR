@@ -8,3 +8,5 @@ Repositório destinado ao livro Fundamentos de HTML5 e CSS3,
 com o propósito d adquirir os fundamentos teóricos e práticos
 dessas duas linguagens importantes para o desenvolvimento web.
 
+<hr>
+
